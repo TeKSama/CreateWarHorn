@@ -1,0 +1,28 @@
+{
+  "block.createwarhorn.war_horn": "战争号角",
+
+  "block.createwarhorn.war_horn.tooltip.summary": "在后方连接_旋转轴_以压缩块内的空气。压力升高后,_红石脉冲_会释放出一股可在方圆_数百格_内听到的巨大音爆!",
+  "block.createwarhorn.war_horn.tooltip.air_charge": "空气储量",
+  "block.createwarhorn.war_horn.tooltip.range": "射程:",
+  "block.createwarhorn.war_horn.tooltip.audible_range": "(%s 格)",
+  "block.createwarhorn.war_horn.tooltip.ready": "已就绪,可以发射",
+  "block.createwarhorn.war_horn.tooltip.idle": "未在转动",
+  "block.createwarhorn.war_horn.tooltip.time_remaining": "%s 秒后就绪",
+
+  "block.createwarhorn.war_horn.range.very_short": "极近程",
+  "block.createwarhorn.war_horn.range.short": "近程",
+  "block.createwarhorn.war_horn.range.medium": "中程",
+  "block.createwarhorn.war_horn.range.long": "远程",
+  "block.createwarhorn.war_horn.range_label": "战争号角射程",
+
+  "subtitles.block.createwarhorn.war_horn.blast": "战争号角轰鸣",
+
+  "advancement.createwarhorn.root.title": "战争号角",
+  "advancement.createwarhorn.root.description": "战争号角成就",
+  "advancement.createwarhorn.craft_war_horn.title": "战斗号召",
+  "advancement.createwarhorn.craft_war_horn.description": "制作你的第一个战争号角。",
+  "advancement.createwarhorn.full_power_blast.title": "冲击波",
+  "advancement.createwarhorn.full_power_blast.description": "在最大压力下释放一次音爆。",
+  "advancement.createwarhorn.warden_hit.title": "以其人之道还治其人之身",
+  "advancement.createwarhorn.warden_hit.description": "用战争号角的原始力量淹没监守者的感官。"
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "createwarhorn:block/war_horn" },
+    "facing=south": { "model": "createwarhorn:block/war_horn", "y": 180 },
+    "facing=west": { "model": "createwarhorn:block/war_horn", "y": 270 },
+    "facing=east": { "model": "createwarhorn:block/war_horn", "y": 90 }
+  }
+}

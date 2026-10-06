@@ -1,0 +1,28 @@
+{
+  "block.createwarhorn.war_horn": "Cuerno de Guerra",
+
+  "block.createwarhorn.war_horn.tooltip.summary": "Conecta _un eje giratorio_ en la parte trasera para comprimir el aire dentro del bloque. Una vez que la presión sube, _un pulso de redstone_ libera una onda sonora masiva audible a _cientos de bloques_ a la redonda!",
+  "block.createwarhorn.war_horn.tooltip.air_charge": "Reserva de aire",
+  "block.createwarhorn.war_horn.tooltip.range": "Alcance:",
+  "block.createwarhorn.war_horn.tooltip.audible_range": "(%s bloques)",
+  "block.createwarhorn.war_horn.tooltip.ready": "Lista para disparar",
+  "block.createwarhorn.war_horn.tooltip.idle": "Detenido",
+  "block.createwarhorn.war_horn.tooltip.time_remaining": "Lista en %ss",
+
+  "block.createwarhorn.war_horn.range.very_short": "Muy corto",
+  "block.createwarhorn.war_horn.range.short": "Corto",
+  "block.createwarhorn.war_horn.range.medium": "Medio",
+  "block.createwarhorn.war_horn.range.long": "Largo",
+  "block.createwarhorn.war_horn.range_label": "Alcance del Cuerno de Guerra",
+
+  "subtitles.block.createwarhorn.war_horn.blast": "El Cuerno de Guerra resuena",
+
+  "advancement.createwarhorn.root.title": "Cuerno de Guerra",
+  "advancement.createwarhorn.root.description": "Logros del Cuerno de Guerra",
+  "advancement.createwarhorn.craft_war_horn.title": "Llamada a las Armas",
+  "advancement.createwarhorn.craft_war_horn.description": "Fabrica tu primer Cuerno de Guerra.",
+  "advancement.createwarhorn.full_power_blast.title": "Onda de Choque",
+  "advancement.createwarhorn.full_power_blast.description": "Desata un estallido acústico a presión máxima.",
+  "advancement.createwarhorn.warden_hit.title": "Prueba de tu Propia Medicina",
+  "advancement.createwarhorn.warden_hit.description": "Abruma los sentidos de un Warden con el poder bruto del Cuerno de Guerra."
+}

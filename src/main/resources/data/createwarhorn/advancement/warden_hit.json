@@ -1,0 +1,17 @@
+{
+  "parent": "createwarhorn:full_power_blast",
+  "display": {
+    "icon": { "id": "minecraft:echo_shard", "count": 1 },
+    "title": { "translate": "advancement.createwarhorn.warden_hit.title" },
+    "description": { "translate": "advancement.createwarhorn.warden_hit.description" },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "hurt_warden": {
+      "trigger": "createwarhorn:warden_hit"
+    }
+  }
+}

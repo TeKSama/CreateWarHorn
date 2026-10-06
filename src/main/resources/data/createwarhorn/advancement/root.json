@@ -1,0 +1,16 @@
+{
+  "display": {
+    "icon": { "id": "createwarhorn:war_horn", "count": 1 },
+    "title": { "translate": "advancement.createwarhorn.root.title" },
+    "description": { "translate": "advancement.createwarhorn.root.description" },
+    "background": "create:textures/gui/advancements.png",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:inventory_changed"
+    }
+  }
+}

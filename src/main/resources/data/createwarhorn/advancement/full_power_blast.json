@@ -1,0 +1,17 @@
+{
+  "parent": "createwarhorn:craft_war_horn",
+  "display": {
+    "icon": { "id": "minecraft:tnt", "count": 1 },
+    "title": { "translate": "advancement.createwarhorn.full_power_blast.title" },
+    "description": { "translate": "advancement.createwarhorn.full_power_blast.description" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "fired_at_full_power": {
+      "trigger": "createwarhorn:blast_full_power"
+    }
+  }
+}

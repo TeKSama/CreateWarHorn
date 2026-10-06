@@ -1,0 +1,8 @@
+{
+  "war_horn_blast": {
+    "subtitle": "subtitles.block.createwarhorn.war_horn.blast",
+    "sounds": [
+      { "name": "createwarhorn:war_horn", "volume": 1.0, "pitch": 1.0 }
+    ]
+  }
+}

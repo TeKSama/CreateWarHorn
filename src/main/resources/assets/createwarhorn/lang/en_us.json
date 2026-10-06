@@ -1,0 +1,28 @@
+{
+  "block.createwarhorn.war_horn": "War Horn",
+
+  "block.createwarhorn.war_horn.tooltip.summary": "Connect _a rotating shaft_ to the back to pressurize air inside the block. Once pressure builds up, _a redstone pulse_ unleashes a massive sonic wave audible for _hundreds of blocks_ around!",
+  "block.createwarhorn.war_horn.tooltip.air_charge": "Air Reserve",
+  "block.createwarhorn.war_horn.tooltip.range": "Range:",
+  "block.createwarhorn.war_horn.tooltip.audible_range": "(%s blocks)",
+  "block.createwarhorn.war_horn.tooltip.ready": "Ready to fire",
+  "block.createwarhorn.war_horn.tooltip.idle": "Not spinning",
+  "block.createwarhorn.war_horn.tooltip.time_remaining": "Ready in %ss",
+
+  "block.createwarhorn.war_horn.range.very_short": "Very Short",
+  "block.createwarhorn.war_horn.range.short": "Short",
+  "block.createwarhorn.war_horn.range.medium": "Medium",
+  "block.createwarhorn.war_horn.range.long": "Long",
+  "block.createwarhorn.war_horn.range_label": "War Horn Range",
+
+  "subtitles.block.createwarhorn.war_horn.blast": "War Horn blares",
+
+  "advancement.createwarhorn.root.title": "War Horn",
+  "advancement.createwarhorn.root.description": "War Horn achievements",
+  "advancement.createwarhorn.craft_war_horn.title": "Call to Arms",
+  "advancement.createwarhorn.craft_war_horn.description": "Craft your first War Horn.",
+  "advancement.createwarhorn.full_power_blast.title": "Shockwave",
+  "advancement.createwarhorn.full_power_blast.description": "Unleash an acoustic blast at maximum pressure.",
+  "advancement.createwarhorn.warden_hit.title": "Taste of Your Own Medicine",
+  "advancement.createwarhorn.warden_hit.description": "Overwhelm a Warden's senses with the raw power of the War Horn."
+}

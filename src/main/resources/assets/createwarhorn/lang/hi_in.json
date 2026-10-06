@@ -1,0 +1,28 @@
+{
+  "block.createwarhorn.war_horn": "युद्ध शंख",
+
+  "block.createwarhorn.war_horn.tooltip.summary": "ब्लॉक के अंदर हवा दबाने के लिए पीछे _एक घूर्णन शाफ्ट_ जोड़ें। दबाव बढ़ने के बाद, _एक रेडस्टोन पल्स_ चारों ओर _सैकड़ों ब्लॉक_ तक सुनाई देने वाली एक विशाल ध्वनि तरंग छोड़ता है!",
+  "block.createwarhorn.war_horn.tooltip.air_charge": "वायु भंडार",
+  "block.createwarhorn.war_horn.tooltip.range": "रेंज:",
+  "block.createwarhorn.war_horn.tooltip.audible_range": "(%s ब्लॉक)",
+  "block.createwarhorn.war_horn.tooltip.ready": "फायर के लिए तैयार",
+  "block.createwarhorn.war_horn.tooltip.idle": "घूम नहीं रहा",
+  "block.createwarhorn.war_horn.tooltip.time_remaining": "%s सेकंड में तैयार",
+
+  "block.createwarhorn.war_horn.range.very_short": "अत्यंत छोटी",
+  "block.createwarhorn.war_horn.range.short": "छोटी",
+  "block.createwarhorn.war_horn.range.medium": "मध्यम",
+  "block.createwarhorn.war_horn.range.long": "लंबी",
+  "block.createwarhorn.war_horn.range_label": "युद्ध शंख की रेंज",
+
+  "subtitles.block.createwarhorn.war_horn.blast": "युद्ध शंख गूंजता है",
+
+  "advancement.createwarhorn.root.title": "युद्ध शंख",
+  "advancement.createwarhorn.root.description": "युद्ध शंख की उपलब्धियां",
+  "advancement.createwarhorn.craft_war_horn.title": "युद्ध का आह्वान",
+  "advancement.createwarhorn.craft_war_horn.description": "अपना पहला युद्ध शंख बनाएं।",
+  "advancement.createwarhorn.full_power_blast.title": "शॉकवेव",
+  "advancement.createwarhorn.full_power_blast.description": "अधिकतम दबाव पर एक ध्वनि विस्फोट छोड़ें।",
+  "advancement.createwarhorn.warden_hit.title": "अपनी ही दवा का स्वाद",
+  "advancement.createwarhorn.warden_hit.description": "युद्ध शंख की कच्ची शक्ति से एक वार्डन की इंद्रियों को अभिभूत करें।"
+}

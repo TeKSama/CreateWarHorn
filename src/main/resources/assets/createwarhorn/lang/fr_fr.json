@@ -1,0 +1,28 @@
+{
+  "block.createwarhorn.war_horn": "Corne de Guerre",
+
+  "block.createwarhorn.war_horn.tooltip.summary": "Connectez _un axe rotatif_ à l'arrière pour comprimer l'air dans le bloc. Une fois la pression montée, _une impulsion de redstone_ libère une onde sonore massive audible à _des centaines de blocs_ à la ronde !",
+  "block.createwarhorn.war_horn.tooltip.air_charge": "Réserve d'air",
+  "block.createwarhorn.war_horn.tooltip.range": "Portée :",
+  "block.createwarhorn.war_horn.tooltip.audible_range": "(%s blocs)",
+  "block.createwarhorn.war_horn.tooltip.ready": "Prête à tirer",
+  "block.createwarhorn.war_horn.tooltip.idle": "À l'arrêt",
+  "block.createwarhorn.war_horn.tooltip.time_remaining": "Prête dans %ss",
+
+  "block.createwarhorn.war_horn.range.very_short": "Très courte",
+  "block.createwarhorn.war_horn.range.short": "Courte",
+  "block.createwarhorn.war_horn.range.medium": "Moyenne",
+  "block.createwarhorn.war_horn.range.long": "Longue",
+  "block.createwarhorn.war_horn.range_label": "Portée de la Corne de Guerre",
+
+  "subtitles.block.createwarhorn.war_horn.blast": "La Corne de Guerre retentit",
+
+  "advancement.createwarhorn.root.title": "Corne de Guerre",
+  "advancement.createwarhorn.root.description": "Succès liés à la Corne de Guerre",
+  "advancement.createwarhorn.craft_war_horn.title": "L'Appel aux Armes",
+  "advancement.createwarhorn.craft_war_horn.description": "Fabriquez votre premier Cor de Guerre.",
+  "advancement.createwarhorn.full_power_blast.title": "Onde de Choc",
+  "advancement.createwarhorn.full_power_blast.description": "Déclenchez un souffle acoustique à pression maximale.",
+  "advancement.createwarhorn.warden_hit.title": "Goûte à ta Propre Médecine",
+  "advancement.createwarhorn.warden_hit.description": "Submergez les sens d'un Warden avec la puissance brute du Cor de Guerre."
+}

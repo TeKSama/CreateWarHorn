@@ -1,0 +1,25 @@
+{
+  "type": "create:mechanical_crafting",
+  "category": "misc",
+  "accept_mirrored": true,
+  "pattern": [
+    "ABA",
+    "CDC",
+    "EFE",
+    "GHG"
+  ],
+  "key": {
+    "A": { "item": "minecraft:red_dye" },
+    "B": { "item": "minecraft:goat_horn" },
+    "C": { "item": "create:brass_sheet" },
+    "D": { "item": "create:fluid_tank" },
+    "E": { "item": "create:brass_casing" },
+    "F": { "item": "create:precision_mechanism" },
+    "G": { "item": "create:fluid_pipe" },
+    "H": { "item": "create:shaft" }
+  },
+  "result": {
+    "id": "createwarhorn:war_horn",
+    "count": 1
+  }
+}
